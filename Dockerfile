@@ -1,6 +1,6 @@
 FROM debian:stable-slim
 
-LABEL maintainer="jhx"
+LABEL maintainer="jhx (jhx0x00@gmail.com)"
 
 RUN \
     echo "[OK] Upgrading packages" && \
